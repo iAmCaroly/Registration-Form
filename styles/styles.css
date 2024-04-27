@@ -8,7 +8,7 @@ body {
     font-size: 16px;
 }
 
-label {
+label {/*To make the texts appear on separate lines*/
     display: block;
     margin: 0.5rem 0;
 }
